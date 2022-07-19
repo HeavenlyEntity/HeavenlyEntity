@@ -6,7 +6,7 @@
 - ⚡ Fun Fact: I developed the most used multi-tool script to allow multiple computer imaging, templating, and remote management that is used globally by Honeywell desktop support techs.
 
 
-<a href="https://app.daily.dev/HeavenlyEntity"><img src="https://api.daily.dev/devcards/8b3348f8ac664854ba35d45e434830a7.png?r=4qt" width="400" alt="Alec M's Dev Card"/></a>
+<a href="https://app.daily.dev/HeavenlyEntity"><img src="https://api.daily.dev/devcards/8b3348f8ac664854ba35d45e434830a7.png?r=suc" width="400" alt="Alec M's Dev Card"/></a>
 
 
 ## 🌐Socials
