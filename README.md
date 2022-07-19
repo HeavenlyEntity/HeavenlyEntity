@@ -5,8 +5,9 @@
 - 🌿 Currently learning: Flutter, Nest, and Oracle NetSuite
 - ⚡ Fun Fact: I developed the most used multi-tool script to allow multiple computer imaging, templating, and remote management that is used globally by Honeywell desktop support techs.
 
-
+<div align="center">
 <a href="https://app.daily.dev/HeavenlyEntity"><img src="https://github.com/HeavenlyEntity/HeavenlyEntity/blob/master/devcard.svg" width="400" alt="Alec M's Dev Card"/></a>
+</div>
 
 
 ## 🌐Socials
