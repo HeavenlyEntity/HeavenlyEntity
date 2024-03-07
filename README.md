@@ -1,7 +1,7 @@
 # 💫About Me :
 # Hello There! 👋
 
-- 🔭 Working on one of the best free speech social media apps and personal portfolio applications out there.
+- 🔭 Working on one of the best social media apps and personal portfolio applications out there.
 - 🌿 Currently learning: Rust & Oracle NetSuite
 - ⚡ Fun Fact: I developed the most used multi-tool script to allow multiple computer imaging, templating, and remote management that is used globally by Honeywell desktop support techs.
 
