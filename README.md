@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MiPi a artist protection and social hub<br>👯 I’m looking to collaborate on A.I. and ML to understand more about tracing<br>🤝 I’m looking for help with MiPi to soon work with educators and work with A.I. against A.I.<br>🌱 I’m currently learning Rust.<br>💬 Ask me about my adventure into art, and how it turned into code.<br>⚡ Fun fact: I developed a automation for Honeywell desktop support techs that allows for multiple remote sessions at a time that is still used take built back in 2019.
+🔭 I’m currently working on MiPi a artist protection and social hub<br>👯 I’m looking to collaborate on A.I. and ML to understand more about tracing<br>🤝 I’m looking for help with MiPi to soon work with educators and work with A.I. against A.I.<br>🌱 I’m currently learning Rust.<br>💬 Ask me about my adventure into art, and how it turned into code.<br>⚡ Fun fact: I developed a automation for Honeywell desktop support techs that allows for multiple remote sessions at a time that is still used today built back in 2019.
 
 <div align="center">
 <a href="https://app.daily.dev/heavenlyentity"><img src="https://api.daily.dev/devcards/v2/kvSpUOQKj.png?type=wide&r=xaa" width="652" alt="Alec M's Dev Card"/></a>
