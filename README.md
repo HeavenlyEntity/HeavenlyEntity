@@ -14,6 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=HeavenlyEntity&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HeavenlyEntity&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeavenlyEntity&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![ShowPR](https://show-pr.vercel.app/embed/image/HeavenlyEntity?v=1)](https://show-pr.vercel.app)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HeavenlyEntity&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
